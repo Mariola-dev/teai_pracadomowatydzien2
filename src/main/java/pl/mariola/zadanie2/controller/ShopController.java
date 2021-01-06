@@ -24,5 +24,4 @@ public class ShopController {
     shop.prepareCart();
     shop.showCart();
   }
-
 }

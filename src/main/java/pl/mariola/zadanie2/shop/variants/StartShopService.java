@@ -32,6 +32,4 @@ public class StartShopService extends AbstractShopService {
   public VariantName variantName() {
     return START;
   }
-
-
 }
